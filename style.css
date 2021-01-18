@@ -7,3 +7,10 @@ h1 {
 input {
 	padding: 5px;
 }
+
+#printer {
+	color: white;
+	background: gray;
+	padding: 5px;
+	text-transform: uppercase;
+}
